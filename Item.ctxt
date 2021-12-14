@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Item
+comment0.text=\r\n\ This\ Item\ class\ is\ used\ when\ you\ want\ to\ out\ the\ item\ in\ \r\n\ specific\ room.\ \r\n\r\n\ @author\ shinhyeok\ Kang\r\n\ @version\ 2020.04.28\r\n
+comment1.params=name
+comment1.target=Item(java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Item\r\n
+numComments=2
